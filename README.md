@@ -17,3 +17,9 @@ To add a new section, copy an existing one and:
 * The style (`css`) of the website elements is defined in `_includes/css/main.css`.
 * The banner (hero image) is located in `img/banner.jpg`.
 * Site metadata (title, author, url, etc.) is defined in `_config.yaml`.
+
+## References
+* https://scalableroboticlearning.github.io
+* https://sites.google.com/view/icra22-srl/home?authuser=0
+* https://sites.google.com/view/ropm
+* https://leggedrobots.org
