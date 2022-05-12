@@ -1,32 +1,19 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+# IROS 2022 Workshop: Probabilistic Robotics In the age of Deep Learning
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+### 1. Adding content to a section
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
+Each section has its own file in the `_posts` directory. Simply add Markdown compatible content below the the header (content within `---`).
 
----
-```
+### 2. Adding sections
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+To add a new section, copy an existing one and:
+1. Change the filename to `2022-01-xx-section-name.md` where `xx` is the section ID used for sorting the sections.
+2. Change the title in the section header.
+3. Change the section content below the header (see above).
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+### 3. Changing the style (advanced)
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+* The layout of the website is defined in `_layouts/default.html`. Different elements of the website are defined in the `_includes` directory and imported into `default.html`.
+* The style (`css`) of the website elements is defined in `_includes/css/main.css`.
+* The banner (hero image) is located in `img/banner.jpg`.
+* Site metadata (title, author, url, etc.) is defined in `_config.yaml`.
