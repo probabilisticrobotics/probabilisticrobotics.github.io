@@ -3,6 +3,7 @@
 ### 1. Adding content to a section
 
 Each section has its own file in the `_posts` directory. Simply add Markdown compatible content below the the header (the header is defined within `---`).
+This can be done in a local clone as well as directly in the GitHub file editor.
 
 ### 2. Adding sections
 
