@@ -2,7 +2,7 @@
 
 ### 1. Adding content to a section
 
-Each section has its own file in the `_posts` directory. Simply add Markdown compatible content below the the header (content within `---`).
+Each section has its own file in the `_posts` directory. Simply add Markdown compatible content below the the header (the header is defined within `---`).
 
 ### 2. Adding sections
 
