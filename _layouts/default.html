@@ -1,45 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-    {% include head.html %}
-    <body id="page-top" class="index">
-    {% include nav.html %}
-    {% include header.html %}
+{% include head.html %}
+<body id="page-top" class="index">
+{% include nav.html %}
+{% include header.html %}
 
-    {% assign style = "" %}
-    {% for post in site.posts reversed %}
+{% assign style = "" %}
+{% for post in site.posts reversed %}
 
-    <section class="{{ style }}" id="{{ post.title }}">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-left">
-                    <h2>{{ post.title }}</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12 text-left">
-                    {{ post.content }}
-                </div>
+<section class="{{ style }}" id="{{ post.date | date: '%d' }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-left">
+                <h2>{{ post.title }}</h2>
             </div>
         </div>
-    </section>
+        <div class="row">
+            <div class="col-lg-12 text-left">
+                {{ post.content }}
+            </div>
+        </div>
+    </div>
+</section>
 
-    {% if style == "success" %}
-    {% assign style = "" %}
-    {% else %}
-    {% assign style = "success" %}
-    {% endif %}
+{% if style == "success" %}
+{% assign style = "" %}
+{% else %}
+{% assign style = "success" %}
+{% endif %}
 
-    {% endfor %}
+{% endfor %}
 
-    <section class="{{ style }}" id="contact">
+<section class="{{ style }}" id="contact">
     {% if site.contact == "static" %}
     {% include contact_static.html %}
     {% else %}
     {% include contact.html %}
     {% endif %}
-    </section>
+</section>
 
-    {% include footer.html %}
-    {% include js.html %}
-    </body>
+{% include footer.html %}
+{% include js.html %}
+</body>
 </html>
