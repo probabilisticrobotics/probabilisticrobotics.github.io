@@ -125,13 +125,13 @@ header .intro-text .skills {
     }
 }
 
-.nav li{
-    font-size: 1em;
+.nav a {
+    font-size: 1em !important;
 }
 
 @media(min-width:1280px) {
-    .nav li{
-        font-size: 1.2em;
+    .nav a {
+        font-size: 1.2em !important;
     }
 }
 
