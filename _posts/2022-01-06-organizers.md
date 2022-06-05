@@ -3,7 +3,7 @@ layout: default
 title: Organizers
 ---
 
-[**Janis Postels**](https://janispostels.github.io/) from ETH Zurich and Google
+[**Janis Postels**](https://janispostels.github.io/) from ETH Zurich
 
 [**Jianxiang Feng**](https://scholar.google.com/citations?user=b-5CscIAAAAJ&hl=en) from MUDS and DLR
 
