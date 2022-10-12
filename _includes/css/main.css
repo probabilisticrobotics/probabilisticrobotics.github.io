@@ -40,6 +40,11 @@ h2 {
     margin-bottom: 0.5em !important;
 }
 
+tr,
+td {
+    font-size: 20px;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
