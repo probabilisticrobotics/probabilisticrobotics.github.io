@@ -496,3 +496,7 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.circular--square img { width: 200px; height: 200px; border-radius: 50%; }
+.circular--portrait { position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--portrait img { width: 100%; height: auto; }
+.circular--landscape { display: inline-block; position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--landscape img { width: auto; height: 100%; margin-left: -50px; }
