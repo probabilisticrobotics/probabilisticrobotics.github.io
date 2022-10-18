@@ -84,6 +84,11 @@ h2 {
 
 tr,
 td {
+    font-size: 22px;
+}
+
+ul,
+li {
     font-size: 20px;
 }
 

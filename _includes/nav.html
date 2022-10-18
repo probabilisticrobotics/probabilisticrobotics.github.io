@@ -21,7 +21,7 @@
                 </li>
                 {% for post in site.posts reversed %}
                 <li class="page-scroll">
-                    <a href="#{{ post.date | date: '%d' }}">{{ post.title }}</a>
+                    <a href="#{{ post.date | date: '%d' }}" style="font-size: 12px !important;">{{ post.title }}</a>
                 </li>
                 {% endfor %}
                 <!--
