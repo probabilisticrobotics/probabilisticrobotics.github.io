@@ -6,7 +6,7 @@ title: Organizers
 <tbody>
 <tr>
 <td><div class="circular--portrait"><img src="/img/jp.jpg" alt="Janis Postels"></div></td>
-<td><div class="circular--square"><img src="/img/jxf2.png" alt="Jianxiang Feng"></div></td>
+<td><div class="circular--square"><img src="/img/jxf1.png" alt="Jianxiang Feng"></div></td>
 <td><div class="circular--square"><img src="/img/jsl.jpeg" alt="Jongseok Lee"></div></td>
 <td><div class="circular--portrait"><img src="/img/mh.jpeg" alt="Matthias Humt"></div></td>
 <td><div class="circular--portrait"><img src="/img/yzw.jpg" alt="Yizhe Wu"></div></td>
