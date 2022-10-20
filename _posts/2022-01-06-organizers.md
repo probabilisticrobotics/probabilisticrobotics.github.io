@@ -2,15 +2,31 @@
 layout: default
 title: Organizers
 ---
-
-[**Janis Postels**](https://janispostels.github.io/) from ETH Zurich
-
-[**Jianxiang Feng**](https://rmc.dlr.de/rm/de/staff/jianxiang.feng/) from MUDS and DLR
-
-[**Jongseok Lee**](https://rmc.dlr.de/rm/en/staff/jongseok.lee/) from DLR
-
-[**Matthias Humt**](https://www.hummat.com/) from DLR
-
-[**Yizhe Wu**](https://ori.ox.ac.uk/people/yizhe-wu/) from Oxford University
-
-[**Rudolph Triebel**](https://rmc.dlr.de/rm/de/staff/rudolph.triebel/) from DLR and TU Munich
+<table class="table-condensed">
+<tbody>
+<tr>
+<td><div class="circular--portrait"><img src="/img/jp.jpg" alt="Janis Postels"></div></td>
+<td><div class="circular--portrait"><img src="/img/jxf.png" alt="Jianxiang Feng"></div></td>
+<td><div class="circular--square"><img src="/img/jsl.jpeg" alt="Jongseok Lee"></div></td>
+<td><div class="circular--portrait"><img src="/img/mh.jpeg" alt="Matthias Humt"></div></td>
+<td><div class="circular--portrait"><img src="/img/yzw.jpg" alt="Yizhe Wu"></div></td>
+<td><div class="circular--portrait"><img src="/img/rd.jpeg" alt="Rudolph Triebel"></div></td>
+</tr>
+<tr>
+<td><a href="https://janispostels.github.io/"><b>Janis Postels</b></a></td>
+<td><a href="https://rmc.dlr.de/rm/de/staff/jianxiang.feng/"><b>Jianxiang Feng</b></a></td>
+<td><a href="https://rmc.dlr.de/rm/en/staff/jongseok.lee/"><b>Jongseok Lee</b></a></td>
+<td><a href="https://www.hummat.com/"><b>Matthias Humt</b></a></td>
+<td><a href="https://ori.ox.ac.uk/people/yizhe-wu/"><b>Yizhe Wu</b></a></td>
+<td><a href="https://rmc.dlr.de/rm/de/staff/rudolph.triebel/"><b>Rudolph Triebel</b></a></td>
+</tr>
+<tr>
+<td>ETH Zurich (Switzerland)</td>
+<td>DLR (Germany)</td>
+<td>DLR (Germany)</td>
+<td>DLR (Germany)</td>
+<td>University of Oxford (United Kingdom)</td>
+<td>DLR and TU Munich (Germany) </td>
+</tr>
+</tbody>
+</table>
