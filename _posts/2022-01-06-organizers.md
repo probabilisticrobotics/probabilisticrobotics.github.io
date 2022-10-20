@@ -6,12 +6,13 @@ title: Organizers
 <tbody>
 <tr>
 <td><div class="circular--portrait"><img src="/img/jp.jpg" alt="Janis Postels"></div></td>
-<td><div class="circular--portrait"><img src="/img/jxf.png" alt="Jianxiang Feng"></div></td>
+<td><div class="circular--square"><img src="/img/jxf.png" alt="Jianxiang Feng"></div></td>
 <td><div class="circular--square"><img src="/img/jsl.jpeg" alt="Jongseok Lee"></div></td>
 <td><div class="circular--portrait"><img src="/img/mh.jpeg" alt="Matthias Humt"></div></td>
 <td><div class="circular--portrait"><img src="/img/yzw.jpg" alt="Yizhe Wu"></div></td>
 <td><div class="circular--portrait"><img src="/img/rd.jpeg" alt="Rudolph Triebel"></div></td>
 </tr>
+  
 <tr>
 <td><a href="https://janispostels.github.io/"><b>Janis Postels</b></a></td>
 <td><a href="https://rmc.dlr.de/rm/de/staff/jianxiang.feng/"><b>Jianxiang Feng</b></a></td>
