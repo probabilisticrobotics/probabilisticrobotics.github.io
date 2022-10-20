@@ -6,7 +6,7 @@ title: Organizers
 <tbody>
 <tr>
 <td><div class="circular--portrait"><img src="/img/jp.jpg" alt="Janis Postels"></div></td>
-<td><div class="circular--square"><img src="/img/jxf.png" alt="Jianxiang Feng"></div></td>
+<td><div class="circular--square"><img src="/img/jxf2.png" alt="Jianxiang Feng"></div></td>
 <td><div class="circular--square"><img src="/img/jsl.jpeg" alt="Jongseok Lee"></div></td>
 <td><div class="circular--portrait"><img src="/img/mh.jpeg" alt="Matthias Humt"></div></td>
 <td><div class="circular--portrait"><img src="/img/yzw.jpg" alt="Yizhe Wu"></div></td>
@@ -22,12 +22,12 @@ title: Organizers
 <td style="text-align: center; vertical-align: middle;"><a href="https://rmc.dlr.de/rm/de/staff/rudolph.triebel/"><b>Rudolph Triebel</b></a></td>
 </tr>
 <tr>
-<td>ETH Zurich (Switzerland)</td>
-<td>DLR (Germany)</td>
-<td>DLR (Germany)</td>
-<td>DLR (Germany)</td>
-<td>University of Oxford (United Kingdom)</td>
-<td>DLR and TU Munich (Germany) </td>
+<td style="text-align: center; vertical-align: middle;">ETH Zurich (Switzerland)</td>
+<td style="text-align: center; vertical-align: middle;">DLR (Germany)</td>
+<td style="text-align: center; vertical-align: middle;">DLR (Germany)</td>
+<td style="text-align: center; vertical-align: middle;">DLR (Germany)</td>
+<td style="text-align: center; vertical-align: middle;">University of Oxford (United Kingdom)</td>
+<td style="text-align: center; vertical-align: middle;">DLR and TU Munich (Germany) </td>
 </tr>
 </tbody>
 </table>
