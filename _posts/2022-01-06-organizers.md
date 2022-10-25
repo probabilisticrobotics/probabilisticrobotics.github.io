@@ -5,12 +5,12 @@ title: Organizers
 <table class="table-condensed">
 <tbody>
 <tr>
-<td><div class="circular--portrait"><img src="/img/jp.jpg" alt="Janis Postels"></div></td>
-<td><div class="circular--portrait"><img src="/img/jxf.png" alt="Jianxiang Feng"></div></td>
-<td><div class="circular--square"><img src="/img/jsl.jpeg" alt="Jongseok Lee"></div></td>
-<td><div class="circular--portrait"><img src="/img/mh.jpeg" alt="Matthias Humt"></div></td>
-<td><div class="circular--portrait"><img src="/img/yzw.jpg" alt="Yizhe Wu"></div></td>
-<td><div class="circular--portrait"><img src="/img/rd.jpeg" alt="Rudolph Triebel"></div></td>
+<td><div class="circular--portrait--small"><img src="/img/jp.jpg" alt="Janis Postels"></div></td>
+<td><div class="circular--portrait--small"><img src="/img/jxf.png" alt="Jianxiang Feng"></div></td>
+<td><div class="circular--square--small"><img src="/img/jsl.jpeg" alt="Jongseok Lee"></div></td>
+<td><div class="circular--portrait--small"><img src="/img/mh.jpeg" alt="Matthias Humt"></div></td>
+<td><div class="circular--portrait--small"><img src="/img/yzw.jpg" alt="Yizhe Wu"></div></td>
+<td><div class="circular--portrait--small"><img src="/img/rd.jpeg" alt="Rudolph Triebel"></div></td>
 </tr>
   
 <tr>

@@ -502,6 +502,9 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-.circular--square img { width: 200px; height: 200px; border-radius: 50%; }
-.circular--portrait { position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--portrait img { width: 100%; height: auto; }
-.circular--landscape { display: inline-block; position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--landscape img { width: auto; height: 100%; margin-left: -50px; }
+.circular--square img { width: 250px; height: 250px; border-radius: 50%; }
+.circular--portrait { display: inline-block; position: relative; width: 250px; height: 250px; overflow: hidden; border-radius: 50%; } .circular--portrait img { width: 100%; height: auto; }
+.circular--landscape { display: inline-block; position: relative; width: 250px; height: 250px; overflow: hidden; border-radius: 50%; } .circular--landscape img { width: auto; height: 100%; margin-left: -62.5px; }
+.circular--square--small img { width: 200px; height: 200px; border-radius: 50%; }
+.circular--portrait--small { display: inline-block; position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--portrait--small img { width: 100%; height: auto; }
+.circular--landscape--small { display: inline-block; position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--landscape--small img { width: auto; height: 100%; margin-left: -50px; }
