@@ -1,4 +1,4 @@
-# IROS 2022 Workshop: Probabilistic Robotics In the age of Deep Learning
+# IROS 2023 Workshop: Probabilistic Robotics In the age of Deep Learning
 
 ### 1. Adding content to a section
 
