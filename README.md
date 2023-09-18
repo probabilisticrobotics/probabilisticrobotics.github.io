@@ -1,4 +1,4 @@
-# IROS 2023 Workshop: Probabilistic Robotics In the age of Deep Learning
+# ICRA 2024 Workshop: Back to the Future: Robot Learning Going Probabilistic
 
 ### 1. Adding content to a section
 
