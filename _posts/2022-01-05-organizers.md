@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Organizing Committee
+title: Committees
 ---
+<h1>Organizing Committee</h1>
 <table class="table-condensed">
 <tbody>
 <tr>
@@ -20,10 +21,10 @@ title: Organizing Committee
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;">University of Michigan (USA)</td>
-<td style="text-align: center; vertical-align: middle;">DLR (Germany)</td>
+<td style="text-align: center; vertical-align: middle;">TU Munich (Germany)</td>
 <td style="text-align: center; vertical-align: middle;">DLR (Germany)</td>
 <td style="text-align: center; vertical-align: middle;">University of Oxford (United Kingdom)</td>
-<td style="text-align: center; vertical-align: middle;">DLR and TU Munich (Germany) </td>
+<td style="text-align: center; vertical-align: middle;">DLR & TU Munich (Germany) </td>
 </tr>
 </tbody>
 </table>
@@ -44,7 +45,7 @@ title: Organizing Committee
 <tr>
 <td style="text-align: center; vertical-align: middle;">University of Sydney & NVIDIA<br>(Australia & USA)</td>
 <td style="text-align: center; vertical-align: middle;">ETH Zurich (Switzerland)</td>
-<td style="text-align: center; vertical-align: middle;">DLR (Germany)</td>
+<td style="text-align: center; vertical-align: middle;">DLR & TU Munich (Germany)</td>
 </tr>
 </tbody>
 </table>
