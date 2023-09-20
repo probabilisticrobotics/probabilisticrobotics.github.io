@@ -1,5 +1,6 @@
 # Site settings
-title: "Back to the Future: Robot Learning Going Probabilistic"
+title: "Back to the Future:"
+subtitle: "Robot Learning Going Probabilistic"
 email: probabilistic_robotics@dlr.de
 url: https://probabilisticrobotics.github.io
 description: "Official website of the 2024 IEEE International Conference on Robotics and Automation (ICRA) 2024 workshop on probabilistic robotics."
@@ -25,10 +26,13 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: "279888"
-  primary-rgb: "39,152,136"
-  secondary: "004445"
-  secondary-dark: "004445"
+  primary: "77438D"
+  primary-rgb: "119,67,141"
+  secondary: "000000"
+  secondary-dark: "000000"
+  links: "EE1727"
+  header: "FEFEFE"
+  nav: "A188BC"
 
 # Footer settings
 footer:

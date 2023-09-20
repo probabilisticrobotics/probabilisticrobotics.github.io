@@ -2,14 +2,32 @@
 <header>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">
-                <div class="intro-text" style="border: 0.25em solid white; background-color: rgba(0, 0, 0, 0.2);">
-                    <span class="name">{{ site.title }}</span>
-		    <!-- <span class="skills">{{ site.skills }}</span> -->
-		    <img style="width: 30%;" src="img/logo_vertical.gif">
-                    <h3>ICRA 2024 Workshop | Date: TBD | Room: TBD</h3>
-                </div>
-		<!-- <h3><a href={{ 2022 | absolute_url }}>2022</a> <b>/</b> <a href={{ site.url }}>{{ site.time | date: '%Y' }}</a></h3> -->
+            <div class="col-md-12">
+                    <div class="col-md-4">
+                        <div class="video">
+                        <video autoplay="autoplay" poster="img/logo.gif">
+                            <source src="img/logo.mp4" type="video/mp4" />
+                        </video>
+                        </div>
+                    </div>
+
+                    <div class="col-md-8">
+                        
+                        <div class="intro-text">
+                            <span class="name"><h3>I<span class="icra-C">C</span>RA 2024 Workshop</h3></span>
+                            <span>{{ site.title }}</span>
+                            <span class="name">{{ site.subtitle }}</span>
+                            <h5>Date: TBD | Room: TBD</h5>
+                        </div>
+
+                        <!-- <div class="intro-text" style="border: 0.25em solid white; background-color: rgba(0, 0, 0, 0.2);"> -->
+                            <!-- <span class="name">{{ site.title }}</span> -->
+        		    <!-- <span class="skills">{{ site.skills }}</span> -->
+        		    <!-- <img style="width: 30%;" src="img/logo_vertical.gif"> -->
+                            <!-- <h3>ICRA 2024 Workshop | Date: TBD | Room: TBD</h3> -->
+                        <!-- </div> -->
+        		<!-- <h3><a href={{ 2022 | absolute_url }}>2022</a> <b>/</b> <a href={{ site.url }}>{{ site.time | date: '%Y' }}</a></h3> -->
+                    </div>
             </div>
         </div>
     </div>
