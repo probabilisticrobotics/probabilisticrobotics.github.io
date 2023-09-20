@@ -1,10 +1,10 @@
 # Site settings
-title: Probabilistic Robotics
+title: "Back to the Future: Robot Learning Going Probabilistic"
 email: probabilistic_robotics@dlr.de
 url: https://probabilisticrobotics.github.io
 description: "Official website of the 2024 IEEE International Conference on Robotics and Automation (ICRA) 2024 workshop on probabilistic robotics."
 keywords: "robot robotics icra icra2024 workshop probabilistic learning machine deep"
-skills: "Back to the Future: Robot Learning Going Probabilistic"
+# skills: "Back to the Future: Robot Learning Going Probabilistic"
 meta_author: Humt Matthias
 
 # Google webmaster tools
