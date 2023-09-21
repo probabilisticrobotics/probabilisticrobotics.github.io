@@ -8,7 +8,7 @@ title: Committees
 <tr>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--square--small"><a href="https://topipari.com/"><img src="img/opipari.webp" alt="Anthony Opipari"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--square--small"><a href="https://janapavlasek.com/"><img src="img/pavlasek.jpg" alt="Jana Pavlasek"></a></div></td>
-<td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://rmc.dlr.de/rm/de/staff/jianxiang.feng/"><img src="img/jxf.png" alt="Jianxiang Feng"></a></div></td>
+<td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://rmc.dlr.de/rm/de/staff/jianxiang.feng/"><img src="img/jxf.jpg" alt="Jianxiang Feng"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--square--small"><a href="https://rmc.dlr.de/rm/en/staff/jongseok.lee/"><img src="img/jsl.jpeg" alt="Jongseok Lee"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://ori.ox.ac.uk/people/yizhe-wu/"><img src="img/yzw.jpg" alt="Yizhe Wu"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://rmc.dlr.de/rm/de/staff/rudolph.triebel/"><img src="img/rd.jpeg" alt="Rudolph Triebel"></a></div></td>
@@ -41,7 +41,7 @@ title: Committees
 <td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://powertj.github.io/"><img src="img/power.jpg" alt="Thomas Power"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--square--small"><a href="https://ocj.name/"><img src="img/jenkins.jpg" alt="Chad Jenkins"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--square--small"><a href="https://robot-learning.cs.utah.edu/thermans"><img src="img/hermans.jpg" alt="Tucker Hermans"></a></div></td>
-<td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://fabioramos.github.io/Home.html"><img src="img/ramos.png" alt="Fabio Ramos"></a></div></td>
+<td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://fabioramos.github.io/Home.html"><img src="img/ramos.jpg" alt="Fabio Ramos"></a></div></td>
 </tr>
 <tr>
 <td style="text-align: center; vertical-align: middle;"><a href="https://janispostels.github.io/"><b>Janis Postels</b></a></td>
