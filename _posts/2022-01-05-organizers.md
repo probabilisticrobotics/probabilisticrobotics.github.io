@@ -8,7 +8,7 @@ title: Committees
 <tr>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--square--small"><a href="https://topipari.com/"><img src="img/opipari.webp" alt="Anthony Opipari"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--square--small"><a href="https://janapavlasek.com/"><img src="img/pavlasek.jpg" alt="Jana Pavlasek"></a></div></td>
-<td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://rmc.dlr.de/rm/de/staff/jianxiang.feng/"><img src="img/jxf.jpg" alt="Jianxiang Feng"></a></div></td>
+<td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://jianxiangfeng.github.io/"><img src="img/jxf.jpg" alt="Jianxiang Feng"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--square--small"><a href="https://rmc.dlr.de/rm/en/staff/jongseok.lee/"><img src="img/jsl.jpeg" alt="Jongseok Lee"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://ori.ox.ac.uk/people/yizhe-wu/"><img src="img/yzw.jpg" alt="Yizhe Wu"></a></div></td>
 <td style="text-align: center; vertical-align: middle;"><div class="circular--portrait--small"><a href="https://rmc.dlr.de/rm/de/staff/rudolph.triebel/"><img src="img/rd.jpeg" alt="Rudolph Triebel"></a></div></td>
@@ -16,7 +16,7 @@ title: Committees
 <tr>
 <td style="text-align: center; vertical-align: middle;"><a href="https://topipari.com/"><b>Anthony Opipari</b></a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://janapavlasek.com/"><b>Jana Pavlasek</b></a></td>
-<td style="text-align: center; vertical-align: middle;"><a href="https://rmc.dlr.de/rm/de/staff/jianxiang.feng/"><b>Jianxiang Feng</b></a></td>
+<td style="text-align: center; vertical-align: middle;"><a href="https://jianxiangfeng.github.io/"><b>Jianxiang Feng</b></a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://rmc.dlr.de/rm/en/staff/jongseok.lee/"><b>Jongseok Lee</b></a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://ori.ox.ac.uk/people/yizhe-wu/"><b>Yizhe Wu</b></a></td>
 <td style="text-align: center; vertical-align: middle;"><a href="https://rmc.dlr.de/rm/de/staff/rudolph.triebel/"><b>Rudolph Triebel</b></a></td>
