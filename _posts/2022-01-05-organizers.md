@@ -24,10 +24,10 @@ title: Committees
 <tr>
 <td style="text-align: center; vertical-align: middle;">University of Michigan (USA)</td>
 <td style="text-align: center; vertical-align: middle;">University of Michigan (USA)</td>
-<td style="text-align: center; vertical-align: middle;">TU Munich (Germany)</td>
-<td style="text-align: center; vertical-align: middle;">DLR (Germany)</td>
+<td style="text-align: center; vertical-align: middle;">TU Munich & Agile Robots (Germany)</td>
+<td style="text-align: center; vertical-align: middle;">DLR & KIT (Germany)</td>
 <td style="text-align: center; vertical-align: middle;">University of Oxford (United Kingdom)</td>
-<td style="text-align: center; vertical-align: middle;">DLR & Karlsruhe Institute of Technology (Germany) </td>
+<td style="text-align: center; vertical-align: middle;">DLR & Karlsruhe Institute of Technology (KIT) (Germany) </td>
 </tr>
 </tbody>
 </table>
